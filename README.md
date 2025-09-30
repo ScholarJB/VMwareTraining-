@@ -1,2 +1,2 @@
 # VMwareTraining-
-Training on VMware Vpshere 8 
+Training on VMware vSphere 8 
